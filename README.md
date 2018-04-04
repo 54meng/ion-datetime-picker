@@ -2,6 +2,7 @@
 ionic时间插件
 ============
 ### 基于ionic3
+```
 <div class="list">
 <div class="item item-divider">Date picker</div>
 <div class="item item-icon-left" ion-datetime-picker date ng-model="dateValue">
@@ -47,6 +48,5 @@ ionic时间插件
 <strong>{{datetimeValue| date: "yyyy-MM-dd h:mm:ss a"}}</strong>
 </div>
 </div>
-
 
 
